@@ -1,2 +1,3 @@
 # repoDSTI
-training repo
+
+Project for Clean IT Course
